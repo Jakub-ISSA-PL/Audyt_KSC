@@ -169,7 +169,7 @@ Podczas audytu zidentyfikowano ..... niezgodności o krytycznym priorytecie, ...
         i&#x17C; obszar nie dotyczy danej organizacji.</td>
     </tr>
   </tbody>
-</table>Zdaniem zespołu audytowego, najważniejszymi niezgodnościami, którymi, w pierwszej kolejności powinno zająć się najwyższe kierownictwo są:
+</table>Zdaniem zespołu audytowego, najważniejszymi niezgodnościami, którymi w pierwszej kolejności powinno zająć się najwyższe kierownictwo są:
 
 ........
 
@@ -181,6 +181,8 @@ Podczas audytu zidentyfikowano ..... niezgodności o krytycznym priorytecie, ...
 |  |  |
 
 .......
+
+Dowody audytowe potwierdzające powyższe niezgodności przedstawione są w załącznikach do niniejszego raportu
 
 ## Cel i zakres prac
 
