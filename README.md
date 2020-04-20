@@ -23,7 +23,7 @@ description: >-
 | Systemy informacyjne od których zależy usługa kluczowa |  |
 | Data rozpoczęcia i zakończenia Audytu |  |
 | Data wydania Raportu |  |
-| Data Sprawozdania Poprzedniego i ilość niezgodności |  |
+| Data Sprawozdania poprzedniego i ilość niezgodności |  |
 | Data Sprawozdania poprzedniego do poprzedniego i ilość niezgodności |  |
 | Data decyzji o uznaniu za OUK |  |
 | Sektor |  |
@@ -61,14 +61,14 @@ description: >-
 | Funkcja Audytowa | Imię i Nazwisko | Potwierdzenie kwalifikacje \(certyfikaty, wykształcenie i doświadczenie\) | Audytowany obszar |
 | :--- | :--- | :--- | :--- |
 | Audytor Wiodący |  |  |  |
-| Audytor Systemy Operacyjne |  |  |  |
-| Audytor warstwa aplikacji i baz danych |  |  |  |
-| Audytor procesów 27001 |  |  |  |
-| Audytor procesów 22301 |  |  |  |
+| Audytor systemów operacyjnych |  |  |  |
+| Audytor warstwy aplikacji i baz danych |  |  |  |
+| Audytor procesów ISO 27001 |  |  |  |
+| Audytor procesów ISO 22301 |  |  |  |
 | Audytor bezpieczeństwa procesów biznesowych |  |  |  |
 | Audytor systemów typu ICS / SCADA / OT |  |  |  |
 
-Granica konfliktu interesu: Osoby tworzące zespół audytowy i bezpośrednio zaangażowane w weryfikacje zgodności muszą pozostać obiektywne i niezależne. Oznacza, to iż działając w ramach międzynarodowych standardówm audytu nie mogą dokonywać oceny obszaru, za który były odpowiedzialne lub prowadziły czynności doradcze. Wszystkie osoby zaangażowane w badanie składają oświadczenie o braku konfliktu interesów, w szczególności w terminie ostatnich 24 miesięcy nie wykonywały osobiście prac doradczych, projektowych, architektonicznych lub implementacyjnych na rzecz audytowanego podmiotu w zakresie audytowanej Usługi kluczowej .
+**Granica konfliktu interesu:** Osoby tworzące zespół audytowy i bezpośrednio zaangażowane w weryfikacje zgodności muszą pozostać obiektywne i niezależne. Oznacza to, iż działając w ramach międzynarodowych standardów audytu nie mogą dokonywać oceny obszaru, za który były odpowiedzialne lub prowadziły czynności doradcze. Tym samym wszystkie osoby zaangażowane w badanie składają oświadczenie o braku konfliktu interesów, w szczególności, że w przeciągu ostatnich 24 miesięcy nie wykonywały osobiście prac doradczych, projektowych, architektonicznych lub implementacyjnych na rzecz audytowanego podmiotu w zakresie audytowanej Usługi Kluczowej .
 
 ## Niezgodności z poprzednich dwóch audytów UKSC
 
