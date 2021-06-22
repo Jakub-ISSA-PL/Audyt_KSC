@@ -26,7 +26,7 @@
 | Podsektor |  |
 | Opis progu uznania Incydentu za poważny |  |
 
-#### Odpowiedzialności instytucjonalne w OUK
+#### Odpowiedzialności instytucjonalne w OUK test
 
 | Osoby odpowiedzialne w OUK | Imię i Nazwisko |
 | :--- | :--- |
